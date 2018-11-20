@@ -35,7 +35,7 @@ public class calculoMatrizSecuencial {
 		}
 		sum = sum+D[i]*C[i];
 	}
-	//////////////resultados
+	//////////////resultado de X
 	System.out.println("X es "+sum);
 	
 	}	
